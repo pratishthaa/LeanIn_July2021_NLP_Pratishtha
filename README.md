@@ -1,6 +1,6 @@
 # LeanIn_July2021_NLP_Pratishtha
 
-This Repository contains all assignments given by Mentor - [Shruti Jha](https://www.linkedin.com/in/shruti-jha-542856196/), which are supposed to be completed for respective Milestones( in named folders ) -
+This Repository contains all assignments given by Mentor - [Shruti Jha](https://github.com/Shruti1102000), which are supposed to be completed for respective Milestones( in named folders ) -
 
 - Milestone#1
 
